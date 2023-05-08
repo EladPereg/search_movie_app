@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/search_movie_app/static/css/main.85f2fc6b.css",
+    "main.js": "/search_movie_app/static/js/main.8ae8735f.js",
+    "static/js/787.74173f97.chunk.js": "/search_movie_app/static/js/787.74173f97.chunk.js",
+    "static/media/צילום מסך 2023-05-08 145019.png": "/search_movie_app/static/media/צילום מסך 2023-05-08 145019.7cc9b97e46222f934dd8.png",
+    "static/media/examplepic2.png": "/search_movie_app/static/media/examplepic2.bb9fdad00d38ff93277f.png",
+    "index.html": "/search_movie_app/index.html",
+    "main.85f2fc6b.css.map": "/search_movie_app/static/css/main.85f2fc6b.css.map",
+    "main.8ae8735f.js.map": "/search_movie_app/static/js/main.8ae8735f.js.map",
+    "787.74173f97.chunk.js.map": "/search_movie_app/static/js/787.74173f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f2fc6b.css",
+    "static/js/main.8ae8735f.js"
+  ]
+}
